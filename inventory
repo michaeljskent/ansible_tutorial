@@ -1,2 +1,6 @@
+[all:vars]
+ansible_user=azureuser
+
+[tutorial]
 20.115.31.241
 
